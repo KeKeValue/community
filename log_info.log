@@ -1,0 +1,7 @@
+2022-05-10 20:30:08,826 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:50] Starting LoggerTests on LAPTOP-FG8BDH65 with PID 38584 (started by yangz in E:\code\java\community)
+2022-05-10 20:30:08,828 INFO [main] c.n.c.LoggerTests [SpringApplication.java:647] No active profile set, falling back to default profiles: default
+2022-05-10 20:30:10,560 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2022-05-10 20:30:10,654 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] Adding welcome page template: index
+2022-05-10 20:30:10,969 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:59] Started LoggerTests in 2.467 seconds (JVM running for 3.212)
+2022-05-10 20:30:11,132 INFO [main] c.n.c.LoggerTests [LoggerTests.java:23] info log
+2022-05-10 20:30:11,139 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
